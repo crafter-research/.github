@@ -1,9 +1,12 @@
 ### Crafter Research
 
-Open-source civic technology for Peru. A research lab where every paper has a working prototype.
+Tecnología cívica open-source para Perú. Un laboratorio donde cada paper tiene un prototipo funcional.
 
-**Active**: [peru-financia](https://peru-financia.crafter.ing) — mapa de financiamiento politico peruano (datos ONPE 1995-2026)
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| [peru-financia](https://peru-financia.crafter.ing) | Mapa de financiamiento político peruano — datos ONPE 1995-2026 | Live |
+| [political-graph](https://github.com/crafter-research/political-graph) | Grafo interactivo de relaciones entre políticos y casos de corrupción | In progress |
 
 **Website**: [research.crafter.ing](https://research.crafter.ing)
 
-Part of [Crafter Station](https://crafterstation.com).
+Parte de [Crafter Station](https://crafterstation.com).
