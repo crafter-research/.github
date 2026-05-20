@@ -45,4 +45,6 @@ Tecnología cívica, gov-tech y evaluación de LLMs open-source para LATAM. Un l
 
 **Website**: [research.crafter.ing](https://github.com/crafter-research/website)
 
+Maintained by [Shiara](shiara.design) & [Railly](railly.dev) 
 Parte de [Crafter Station](https://crafterstation.com).
+
