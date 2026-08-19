@@ -8,7 +8,7 @@ Tecnología cívica, gov-tech y evaluación de LLMs open-source para LATAM. Un l
 |----------|-------------|--------|
 | [muniscan](https://github.com/crafter-research/muniscan) | Índice automático y censal de la superficie digital que declaran las 1,794 municipalidades del Perú en gob.pe | Live |
 | [sismo-abierto](https://github.com/crafter-research/sismo-abierto) | Sismos oficiales de Perú y Colombia con datos trazables del IGP y el SGC: mapas, catálogos, API, CLI, ondas, volcanes y salud de fuentes | Live |
-| [static-index-poc](https://github.com/crafter-research/static-index-poc) | Índices binarios de solo lectura servidos como archivos inmutables. Mide disponibilidad de fuentes oficiales contra copias estáticas | PoC |
+| static-index-poc | Índices binarios de solo lectura servidos como archivos inmutables. Mide disponibilidad de fuentes oficiales contra copias estáticas | Privado |
 | [legalize-pe](https://github.com/crafter-research/legalize-pe) | Corpus peruano para la federación legalize.dev: 21,244 normas en Markdown, versionadas en Git, tier nacional del SPIJ más 26 jurisdicciones regionales | Live |
 
 #### Civic Tech — Elecciones Perú 2026
