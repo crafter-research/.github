@@ -47,7 +47,7 @@ Salvo `sunat-cli`, los adapters no reciben commits desde abril de 2026.
 | [latambench](https://latambench.org) | Benchmark generation-first para LLMs en español latinoamericano | Live |
 | [amicus-eval](https://github.com/crafter-research/amicus-eval) | Benchmark abierto de recuperación legal sobre el corpus legalize-pe: gold set, ablaciones, métricas reproducibles | Live |
 
-**Website**: [research.crafter.ing](https://research.crafter.ing)
+**Website**: [crafter.ing](https://crafter.ing)
 
 Maintained by [Shiara](https://shiara.design) & [Railly](https://railly.dev)
 Parte de [Crafter Station](https://crafterstation.com).
